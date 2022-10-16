@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cronograma on Neighbor Help</title>
+    <link>/tags/cronograma/</link>
+    <description>Recent content in cronograma on Neighbor Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cronograma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cronograma do projeto</title>
+      <link>/docs/cronograma/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/cronograma/</guid>
+      <description>&lt;h2 id=&#34;documentação-diagrama-e-descrição-do-cronograma-do-projeto-desenvolvido&#34;&gt;Documentação, diagrama e descrição do cronograma do projeto desenvolvido&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/img/test.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

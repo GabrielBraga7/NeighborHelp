@@ -1,0 +1,51 @@
+baseURL = "/"
+languageCode = "pt-br"
+title = "Neighbor Help"
+defaultContentLanguage = "pt"
+theme = "spectral"
+
+[params]
+fancyTitle = "Neighbor Help" # title for frontpage, may include image
+#copyright = "John Doe"
+description = '<b>Tudo em um só app:</b><br />Permitir <b>ajuda</b> entre moradores de um mesmo bairro,<br /> <b>Fortalecer </b>o comércio local, e <br /> <b>Possibilitar acionamento</b> de serviços públicos'
+startbuttonText = "veja nosso plano de ação"
+startbuttonLink = "/docs"
+body_is_markdown = true
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/docs'
+title = "Documentação"
+
+[params.people]
+enable = true
+
+[[params.people.feature]]
+image="img/pic03.jpg"
+title = "Nome1"
+body = "desc1"
+
+[[params.people.feature]]
+image="img/pic03.jpg"
+title = "Nome1"
+body = "desc1"
+
+[[params.people.feature]]
+image="img/pic03.jpg"
+title = "Nome1"
+body = "desc1"
+
+[[params.people.feature]]
+image="img/pic03.jpg"
+title = "Nome1"
+body = "desc1"
+
+[[params.people.feature]]
+image="img/pic03.jpg"
+title = "Nome1"
+body = "desc1"
+
