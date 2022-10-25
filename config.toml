@@ -1,13 +1,13 @@
 baseURL = "/"
 languageCode = "pt-br"
-title = "Neighbor Help"
+title = "Cityhub"
 defaultContentLanguage = "pt"
 theme = "spectral"
 
 [params]
-fancyTitle = "Neighbor Help" # title for frontpage, may include image
+fancyTitle = "Cityhub" # title for frontpage, may include image
 #copyright = "John Doe"
-description = '<b>Tudo em um só app:</b><br />Permitir <b>ajuda</b> entre moradores de um mesmo bairro,<br /> <b>Fortalecer </b>o comércio local, e <br /> <b>Possibilitar acionamento</b> de serviços públicos'
+description = '<b>Tudo em um só app:</b><br />Permitir <b>ajuda</b> entre moradores de um mesmo bairro, e<br /> <b>Possibilitar acionamento</b> de serviços públicos'
 startbuttonText = "veja nosso plano de ação"
 startbuttonLink = "/docs"
 body_is_markdown = true
@@ -21,31 +21,35 @@ title = "Home"
 url = '/docs'
 title = "Documentação"
 
+[[params.menu.main]]
+url = '/canvas'
+title = "Canvas"
+
 [params.people]
 enable = true
 
 [[params.people.feature]]
-image="img/pic03.jpg"
-title = "Nome1"
-body = "desc1"
+image="/img/edgard.jpeg"
+title = "Edgard Van Tol Taver"
+body = "Engenheiro de Software focado em tecnologias para backend. Aluno de Sistemas de Informação da USP, no quarto ano."
 
 [[params.people.feature]]
-image="img/pic03.jpg"
-title = "Nome1"
-body = "desc1"
+image="img/escobar.jpeg"
+title = "Felipe Munhos Escobar"
+body = "Estudante de Sistemas de informação, motivado para criar novas soluções tecnológicas para o mundo"
 
 [[params.people.feature]]
-image="img/pic03.jpg"
-title = "Nome1"
-body = "desc1"
+image="img/gabriel.jpg"
+title = "Gabriel Braga Lagrotaria de Oliveira"
+body = "Estudante de sistemas de informação e entusiasta de software livre, gosto de pensar na solução de problemas"
 
 [[params.people.feature]]
-image="img/pic03.jpg"
-title = "Nome1"
-body = "desc1"
+image="img/rodrigo.jpg"
+title = "Rodrigo Fernandes Gomes Vieira"
+body = "Meu nome é rodrigod, busco sempre aprender outras tecnologias e gostaria de trabalhar com elas."
 
 [[params.people.feature]]
-image="img/pic03.jpg"
-title = "Nome1"
-body = "desc1"
+image="img/gustavo.jpeg"
+title = "Gustavo Macedo"
+body = ""
 

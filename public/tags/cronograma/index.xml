@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cronograma on Neighbor Help</title>
+    <title>cronograma on Cityhub</title>
     <link>/tags/cronograma/</link>
-    <description>Recent content in cronograma on Neighbor Help</description>
+    <description>Recent content in cronograma on Cityhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/cronograma/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cronograma do projeto</title>
-      <link>/docs/cronograma/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Gestão de qualidade do projeto</title>
+      <link>/docs/qualidade/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/cronograma/</guid>
-      <description>&lt;h2 id=&#34;documentação-diagrama-e-descrição-do-cronograma-do-projeto-desenvolvido&#34;&gt;Documentação, diagrama e descrição do cronograma do projeto desenvolvido&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/test.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;</description>
+      <guid>/docs/qualidade/</guid>
+      <description>Objetivos deste documento Fornecer uma lista definindo os parâmetros de qualidade do projeto, bem como os graus que atendem os requisitos definidos
+Lista de Parâmetros de qualidade  Ações críticas que envolvem comunicação com serviços governamentais não devem passar de, aproximadamente, 1 segundo de atraso (não levando em conta o atraso do próprio sistema deles, apenas o nosso) Apresentação dos dados de forma iterativa para o usuário:  Gráficos em formato de pizza para indicação de problemas em bairros Gráficos em formato de histograma para visualização dos dados por datas/outro parâmetro   Relatórios devem conter um alto grau de personalização, definido por:  Quantidade de parâmetros modificáveis para composição do site Diferentes visualizações de gráficos Possibilidade de definição de métricas customizáveis, podendo ter um cadastro das mesmas, inserindo fórmulas ou algo semelhante que permita tal nível de customização   Tempo consumido para entrega do projeto Satisfação do usuário:  Facilidade de notificar e reportar sobre um problema Facilidade de interação Facilidade de visualização gráfica (em mapa) dos problemas na área   Carga horária para desenvolvimento do projeto  Pesquisa sobre integrações com órgãos públicos e API de geolocalização  Tempo estimado: 2 meses      </description>
     </item>
     
   </channel>

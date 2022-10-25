@@ -1,6 +1,6 @@
 +++
 aliases = ["docs", "documents", "documentation"]
 title = "Documentos"
-author = "Neighbor Help Team"
+author = "Cityhub Team"
 tags = ["index"]
 +++

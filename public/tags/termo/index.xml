@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Termo on Cityhub</title>
+    <link>/tags/termo/</link>
+    <description>Recent content in Termo on Cityhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/termo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Termo de abertura do projeto</title>
+      <link>/docs/termo-abertura/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/termo-abertura/</guid>
+      <description>Controle de versão    Data Versão Descrição Autor     2022-10-18 1 Elaboração inicial. Edgard Taver    Equipe do projeto    Nome Número USP     Edgard van Tol Taver 10686575   Gustavo Macedo Ribeiro 11366336   Felipe Munhos Escobar 11795620   Gabriel Braga Lagrotaria de Oliveira 11796600   Rodrigo Fernandes Gomes Vieira 11796548    Objetivo deste documento Autorizar formalmente o início do projeto Cityhub, contendo todas as informações necessárias para que o projeto seja apresentado, iniciado, desenvolvido e operado.</description>
+    </item>
+    
+  </channel>
+</rss>

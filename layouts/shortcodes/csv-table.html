@@ -1,0 +1,15 @@
+{{ $rows := .Inner | transform.Unmarshal }}
+<table class="table">
+  {{ range $rows }}
+    <tr class="line">
+      {{ range . }} <td class="col">{{ . }}</td> {{ end }}
+    </tr>
+  {{ end }}
+</table>
+<style>
+.col{
+    padding: 0.1rem;
+    font-size: 0.7em;
+    /* border: solid 1px black; */
+}
+</style>
