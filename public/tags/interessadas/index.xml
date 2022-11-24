@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interessadas on Cityhub</title>
+    <link>/tags/interessadas/</link>
+    <description>Recent content in interessadas on Cityhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/interessadas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestão de partes interessadas do projeto</title>
+      <link>/docs/partes/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/partes/</guid>
+      <description>Importância Poder (0-Muito baixo a 5-Muito alto) Interesse (0-Muito baixo a 5-Muito alto) Requisitos de comunicação Principais responsabilidades Principais expectativas Engajamento  20 4 5 Receber Informações sobre o andamento do projeto Fornecer o apoio orçamentário Ter em mãos um aplicativo consistente e utilitário Resistente  15 3 5 Interação direta com o aplicativo e retorno de feedback para a equipe desenvolvedora Utilizar o aplicativo e retornar feedbacks Utilizar um aplicativo que impacta no seu dia-a-dia Neutro  25 5 5 Receber feedbacks e comunicar outras partes interessadas sobre o andamento do projeto Organizar o projeto como um todo Ver o projeto dando resultado Apoiador  16 4 4 Receber o feedback do gestor e junto dele combinar as tarefas que deverão ser priorizadas Desenvolver o aplicativo Ganhar dinheiro e ver satisfação pessoal de ver seu trabalho tendo sucesso Apoiador  12 3 4 Receber dados de captação de usuários Garantir que o aplicativo fique popular Ver o sucesso do processo de divulgação do aplicativo Apoiador  10 5 2 Receber Informações sobre o andamento do projeto Fiscalizar o projeto Garantir que o projeto ajude a população e não prejudique nenhuma parte Resistente    .</description>
+    </item>
+    
+  </channel>
+</rss>

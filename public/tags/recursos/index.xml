@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recursos on Cityhub</title>
+    <link>/tags/recursos/</link>
+    <description>Recent content in recursos on Cityhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/recursos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestão de recursos humanos do projeto</title>
+      <link>/docs/recursos/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/recursos/</guid>
+      <description>Objetivo deste documento Este documento tem como objetivo listar e detalhar todos os cargos e posições possíveis a serem ocupados pela equipe do projeto, bem como demonstrar, de maneira visual, como se dá a hierarquia destes cargos e posições, através de um esquema hierárquico.
+Cargo/posição Responsabilidades Autoridade  QA Em nosso projeto, além de garantir a qualidade do software desenvolvido, realizando testes ao navegar pelo software como um usuário, ele terá uma responsabilidade importante envolvida com um risco do projeto, que é o de detecção de falsos avisos na plataforma, ou seja, será responsável por alertar sobre o acontecimento de tais avisos.</description>
+    </item>
+    
+  </channel>
+</rss>

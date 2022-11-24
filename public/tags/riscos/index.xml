@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>riscos on Cityhub</title>
+    <link>/tags/riscos/</link>
+    <description>Recent content in riscos on Cityhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/riscos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestão de riscos do projeto</title>
+      <link>/docs/risco/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/risco/</guid>
+      <description>Riscos que podem ocorrer durante o desenvolvimento e operação do projeto.
+  Risco 1: O capital levantado com o Fundo Social pode não ser suficiente para cobrir todo o desenvolvimento.
+ Impacto:  O projeto pode ser interrompido antes do término do desenvolvimento.   Prevenção:  Acompanhar o andamento do projeto e seus custos com frequência, para saber com antecedência caso o capital não seja suficiente.   Mitigação:  Buscar outros investidores.</description>
+    </item>
+    
+  </channel>
+</rss>

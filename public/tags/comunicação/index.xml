@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comunicação on Cityhub</title>
+    <link>/tags/comunica%C3%A7%C3%A3o/</link>
+    <description>Recent content in comunicação on Cityhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/comunica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestão de comunicações do projeto</title>
+      <link>/docs/comunicacao/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/comunicacao/</guid>
+      <description>Definir ferramentas de comunicação A principal ferramenta de comunicação será um aplicativo de conferência remoto como Zoom, Google Meets ou Microsoft Teams. Assim, teremos uma comunicação verbal por meio das reuniões, mas também teremos uma forma de comunicação não verbal por troca de mensagens, email e documentos.
+Tipo de trabalho O trabalho será exclusivamente remoto, no qual as reuniões ocorrerão através de ferramentas de chamada virtuais, como o zoom ou o google meets por exemplo.</description>
+    </item>
+    
+  </channel>
+</rss>
