@@ -18,14 +18,14 @@ O trabalho será exclusivamente remoto, no qual as reuniões ocorrerão através
 As reuniões entre a equipe serão realizadas de formas frequente e com uma média de 20 minutos de duração, seguindo assim a metodologia ágil da daily, no qual usará de uma comunicação interativa para que todos consigam ouvir e expor informações.
 
 ### Definir o 6W2H das informações (slide 16).
-**What?** -  Descrever como está o progresso das atividades.
-**Why?** - Para que a equipe esteja atualizada sobre o progresso de cada um e do projeto como um todo.
-**Who?** - Cada membro da equipe.
-**for Who?** - Outros membros da equipe.
-**When?** - Diariamente, cerca de 20 minutos
-**Where?** - Aplicativo de chamada remoto.
-**How?** - Uma exposição do que foi realizado entre cada reunião, assim como impeditivos encontrados.
-**How Much?** - Cerca de R$210 mensais, caso optemos pelo google meets com uma integração com o drive
+**What?** -  Descrever como está o progresso das atividades.  
+**Why?** - Para que a equipe esteja atualizada sobre o progresso de cada um e do projeto como um todo.  
+**Who?** - Cada membro da equipe.  
+**for Who?** - Outros membros da equipe.  
+**When?** - Diariamente, cerca de 20 minutos  
+**Where?** - Aplicativo de chamada remoto.  
+**How?** - Uma exposição do que foi realizado entre cada reunião, assim como impeditivos encontrados.  
+**How Much?** - Cerca de R$210 mensais, caso optemos pelo google meets com uma integração com o drive  
 
 ### Matriz de responsabilidades (Matriz RACI)
 {{< csv-table >}}
