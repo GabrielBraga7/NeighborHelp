@@ -472,7 +472,7 @@ Descrição detalhada do objetivo:
 {{</img-custom>}}
 {{<img-custom link = "/img/cronograma-desenvolvimento.png">}}
 {{</img-custom>}}
-{{<img-custom link = "/img/cronograma-operacoa.png">}}
+{{<img-custom link = "/img/cronograma-operacao.png">}}
 {{</img-custom>}}
 
 ## Riscos
@@ -800,8 +800,8 @@ Esta seção tem como objetivo listar e detalhar todos os cargos e posições po
 Como o cargo de gerente de comunicações abrange várias responsabilidades, pode-se dividi-lo em cargos mais específicos, de acordo com a demanda.
 
 ### Esquema hierárquico
-
-![](esquema_hierarquico.png)
+{{<img-custom link = "/img/esquema_hierarquico.png">}}
+{{</img-custom>}}
 
 ## Partes interessadas
 
