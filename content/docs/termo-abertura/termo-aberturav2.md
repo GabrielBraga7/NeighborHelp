@@ -8,17 +8,19 @@ tags = [
 ]
 +++
 
-# Termo de Abertura do Projeto
+TermoDeAbetura.md
+Hoje
+22:38
 
-[X] EAP  
-[X] Gestão de Tempo (cronograma, kanban etc)   
-[X] Gestão da Qualidade  
-[X] Gestão de Custos  
-[X] Gestão de Recursos  
-[X] Gestão de Comunicações  
-[X] Gestão de Riscos  
-[X] Gestão de Aquisições  
-[X] Gestão de Partes Interessadas  
+Edgard van Tol Taver editou 1 item
+Texto
+TermoDeAbetura.md
+14:39
+
+Edgard van Tol Taver fez o upload de 1 item
+Texto
+TermoDeAbetura.md
+# Termo de Abertura do Projeto
 
 ## Sumário
 
@@ -69,6 +71,10 @@ tags = [
       - [_Observação 1_](#observação-1)
     - [Esquema hierárquico](#esquema-hierárquico)
   - [Partes interessadas](#partes-interessadas)
+  - [Aquisições](#aquisições)
+    - [Desenvolvimentos](#desenvolvimentos)
+    - [Aquisições](#aquisições-1)
+    - [Fornecedores](#fornecedores)
   - [Aprovações](#aprovações)
   - [Anexos](#anexos)
     - [Tabela de população por bairro em São Paulo](#tabela-de-população-por-bairro-em-são-paulo)
@@ -85,6 +91,7 @@ tags = [
 | 2022-11-23 | 5      | Inclusão de partes interessadas. | Rodrigo Vieira   |
 | 2022-11-24 | 6      | Inclusão de cronogramas.         | Felipe Escobar   |
 | 2022-11-24 | 7      | Inclusão de custos.              | Rodrigo Vieira   |
+| 2022-11-24 | 8      | Inclusão de aquisições.          | Felipe Escobar   |
 
 ## Equipe do projeto
 
@@ -464,6 +471,7 @@ Descrição detalhada do objetivo:
 | 6 meses da operação do aplicativo                  | 2024-05-06 |
 
 ## Cronogramas
+
 {{<img-custom link = "/img/cronograma-geral.png">}}
 {{</img-custom>}}
 {{<img-custom link = "/img/cronograma-planejamento.png">}}
@@ -800,6 +808,7 @@ Esta seção tem como objetivo listar e detalhar todos os cargos e posições po
 Como o cargo de gerente de comunicações abrange várias responsabilidades, pode-se dividi-lo em cargos mais específicos, de acordo com a demanda.
 
 ### Esquema hierárquico
+
 {{<img-custom link = "/img/esquema_hierarquico.png">}}
 {{</img-custom>}}
 
@@ -813,6 +822,37 @@ Como o cargo de gerente de comunicações abrange várias responsabilidades, pod
 | 16          | 4                                    | 4                                        | Receber o feedback do gestor e junto dele combinar as tarefas que deverão ser priorizadas | Desenvolver o aplicativo                   | Ganhar dinheiro e ver satisfação pessoal de ver seu trabalho tendo sucesso | Apoiador    |
 | 12          | 3                                    | 4                                        | Receber dados de captação de usuários                                                     | Garantir que o aplicativo fique popular    | Ver o sucesso do processo de divulgação do aplicativo                      | Apoiador    |
 | 10          | 5                                    | 2                                        | Receber Informações sobre o andamento do projeto                                          | Fiscalizar o projeto                       | Garantir que o projeto ajude a população e não prejudique nenhuma parte    | Resistente  |
+
+## Aquisições
+
+Descrição de possíveis aquisições de produtos e serviços para o projeto, além da indicação de determinadas funcionalidades que serão desenvolvidas em vez de adquiridas.
+
+### Desenvolvimentos
+
+- Front-end do site/aplicativo.
+- Back-end do site/aplicativo.
+- Testes.
+- Desenvolvimento do banco de dados.
+- Manutenção do site/aplicativo.
+
+### Aquisições
+
+- Serviço de Cloud.
+- API de mapas
+
+### Fornecedores
+
+Análise de possíveis serviços de Cloud a serem contratados.
+
+Possibilidades:
+
+- AWS
+- Azure
+- Google Cloud Platform
+
+Fornecedor escolhido: **GCP (Google Cloud Platform)**.
+
+Justificativa: decidimos escolher a GCP, principalmente pelo modelo de faturamento deles se mostrar mais claro do que os concorrentes, além de oferecer preços melhores. Isso é importante para manter a previsibilidade dos custos de nosso projeto, pois, como grande parte de nossos recursos advém de fundos sociais, necessitamos gastar a menor quantidade possível de dinheiro a fim de garantir a sustentabilidade do aplicativo. Desse modo, além de gastar menos com o custo do serviço, não seria necessário aumentar o tamanho do time contratando pessoas que fossem especialistas em serviços como a AWS ou Azure (que exigem mais conhecimentos técnicos para realizar uma boa gestão de custos), o que nos fez tomar a decisão de utilizar o serviço da GCP, tendo em mente ainda que, embora mais novo, é um serviço gerido por uma grande empresa, e que deve evoluir ainda mais ao longo dos próximos anos.
 
 ## Aprovações
 
