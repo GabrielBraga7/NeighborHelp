@@ -95,5 +95,27 @@ Riscos que podem ocorrer durante o desenvolvimento e operação do projeto.
         - Não é possível abandonar essa _feature_ pois ela é central para o funcionamento do aplicativo.
         - Caso o problema seja muito difícil de resolver, será necessário contratar uma equipe terceira que tenha experiência nesta área.
 
-{{<img-custom link = "/img/matriz_probab_impacto.png">}}
+## Matriz RACI
+
+{{<img-custom link = "/img/riscos.png">}}
 {{</img-custom>}}
+
+- **[1]**:
+  - Justificativa Risco 7: todos os grandes provedores de infra (AWS, Microsoft, Google) possuem níveis de confiança altíssimos, então a chance é baixa. Além disso, caso ocorra, estes serviços costumam se recuperar de forma também bastante rápida. Portanto, o impacto é baixo.
+
+- **[2]**:
+  - Justificativa Risco 8: o aplicativo guardará poucos dados sensíveis dos usuários e teremos política de segurança. Ainda assim, um vazamento pode trazer danos de imagem razoáveis.
+  - Justificativa Risco 9: a integração com API de dados geográficos já é bem utilizado há vários anos por inúmeros aplicativos. Então o risco de termos problemas é baixo. No entanto, caso ocorre, o impacto é razoável pois o aplicativo requer interação com mapa, de maneira indissociável. Como existem formas de mitigar, não é um risco que vai anular o projeto, mas ainda assim pode causar atrasos consideráveis.
+
+- **[3]**:
+  - Justificativa Risco 1: ficar sem dinheiro impediria a conclusão do projeto. Por outro lado, os recursos já estão super dimensionados, então a chance disso acontecer não é tão alta.
+
+- **[4]**:
+  - Justificativa Risco 2: existe incerteza quanto à integração real. Haverá uma pesquisa prévia de documentação para entender o esforço e fazer testes. Ainda assim, na prática, a integração pode acabar não saindo como planejado.
+
+- **[5]**:
+  - Justificativa Risco 3 e 5: perder o engajamento dos usuários poderia significar o fim do aplicativo, que depende necessariamente de ações dos usuários para atrair mais usuários. Da mesma forma, também depende de ter uma resposta real, uma ação real dos órgãos para que o aplicativo seja entendido com valoroso.
+
+- **[6]**:
+  - Justificativa Risco 4: comportamento de "spam" existe em qualquer lugar, então a chance de ocorrer é alta. No entanto, o aplicativo terá alguns mecanismos "naturais" para controlar spam, e no pior cenário já temos um desenvolvimento planejado de um modelo para identificar de forma mais automática o spam.
+  - Justificativa Risco 6: no mercado de Tecnologia, a rotatividade de pessoas infelizmente é alta.

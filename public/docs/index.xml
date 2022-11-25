@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Gestão de aquisições do projeto</title>
+      <link>/docs/aquisicoes/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/aquisicoes/</guid>
+      <description>1) Fazer:
+ Front-end do site/aplicativo Back-end do site/aplicativo Testes Desenvolvimento do banco de dados Manutenção do site/aplicativo  Comprar:
+ Serviço de Cloud API de mapas  2) Aquisição: Possíveis serviços de Cloud a serem contratados
+Possibilidades:
+ AWS Azure Google Cloud Platform  Fornecedor escolhido: GCP (Google Cloud Platform)
+Decidimos escolher a GCP, principalmente pelo modelo de faturamento deles se mostrar mais claro do que os concorrentes, além de oferecer preços melhores.</description>
+    </item>
+    
+    <item>
       <title>Gestão de comunicações do projeto</title>
       <link>/docs/comunicacao/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
@@ -52,6 +66,15 @@ Cargo/posição Responsabilidades Autoridade  QA Em nosso projeto, além de gara
     </item>
     
     <item>
+      <title>Termo de abertura do projeto</title>
+      <link>/docs/termo/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/termo/</guid>
+      <description>Termo de abertura (v1) Termo de abertura (v2) </description>
+    </item>
+    
+    <item>
       <title>Gestão de custos do projeto</title>
       <link>/docs/custos/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -78,15 +101,6 @@ Lista de Parâmetros de qualidade  Ações críticas que envolvem comunicação 
       
       <guid>/docs/tempo/</guid>
       <description>Cronograma - geral   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }  </description>
-    </item>
-    
-    <item>
-      <title>Termo de abertura do projeto</title>
-      <link>/docs/termo-abertura/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/termo-abertura/</guid>
-      <description>Controle de versão    Data Versão Descrição Autor     2022-10-18 1 Elaboração inicial. Edgard Taver    Equipe do projeto    Nome Número USP     Edgard van Tol Taver 10686575   Gustavo Macedo Ribeiro 11366336   Felipe Munhos Escobar 11795620   Gabriel Braga Lagrotaria de Oliveira 11796600   Rodrigo Fernandes Gomes Vieira 11796548    Objetivo deste documento Autorizar formalmente o início do projeto Cityhub, contendo todas as informações necessárias para que o projeto seja apresentado, iniciado, desenvolvido e operado.</description>
     </item>
     
   </channel>

@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/abertura/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aquisi%C3%A7%C3%B5es/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/comunica%C3%A7%C3%A3o/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/aquisicoes/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,8 +73,28 @@
   </url>
   
   <url>
-    <loc>/tags/abertura/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>/tags/termo/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/termo-abertura/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/termo-abertura/termo-aberturav2/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/termo/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/v2/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,12 +148,7 @@
   </url>
   
   <url>
-    <loc>/tags/termo/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/termo-abertura/</loc>
+    <loc>/docs/termo-abertura/termo-aberturav1/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url>
   

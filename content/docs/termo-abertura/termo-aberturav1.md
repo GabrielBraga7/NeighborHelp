@@ -1,8 +1,8 @@
 +++
 author = "Cityhub team"
-title = "Termo de abertura do projeto"
+title = "Termo de abertura(v1) do projeto"
 date = "2022-10-24"
-description = "Termo de abertura do projeto"
+description = "Termo de abertura(v1) do projeto"
 tags = [
     "Abertura", "Termo"
 ]

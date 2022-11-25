@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Gestão de aquisições do projeto</title>
+      <link>/docs/aquisicoes/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/aquisicoes/</guid>
+      <description>1) Fazer:
+ Front-end do site/aplicativo Back-end do site/aplicativo Testes Desenvolvimento do banco de dados Manutenção do site/aplicativo  Comprar:
+ Serviço de Cloud API de mapas  2) Aquisição: Possíveis serviços de Cloud a serem contratados
+Possibilidades:
+ AWS Azure Google Cloud Platform  Fornecedor escolhido: GCP (Google Cloud Platform)
+Decidimos escolher a GCP, principalmente pelo modelo de faturamento deles se mostrar mais claro do que os concorrentes, além de oferecer preços melhores.</description>
+    </item>
+    
+    <item>
       <title>Gestão de comunicações do projeto</title>
       <link>/docs/comunicacao/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
@@ -49,6 +63,33 @@ Cargo/posição Responsabilidades Autoridade  QA Em nosso projeto, além de gara
       <description>Riscos que podem ocorrer durante o desenvolvimento e operação do projeto.
   Risco 1: O capital levantado com o Fundo Social pode não ser suficiente para cobrir todo o desenvolvimento.
  Impacto:  O projeto pode ser interrompido antes do término do desenvolvimento.   Prevenção:  Acompanhar o andamento do projeto e seus custos com frequência, para saber com antecedência caso o capital não seja suficiente.   Mitigação:  Buscar outros investidores.</description>
+    </item>
+    
+    <item>
+      <title>Termo de abertura (v2) do projeto</title>
+      <link>/docs/termo-abertura/termo-aberturav2/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/termo-abertura/termo-aberturav2/</guid>
+      <description>Termo de Abertura do Projeto [X] EAP
+[X] Gestão de Tempo (cronograma, kanban etc)
+[X] Gestão da Qualidade
+[X] Gestão de Custos
+[X] Gestão de Recursos
+[X] Gestão de Comunicações
+[X] Gestão de Riscos
+[X] Gestão de Aquisições
+[X] Gestão de Partes Interessadas
+Sumário  Termo de Abertura do Projeto  Sumário Controle de versão Equipe do projeto Objetivo deste documento Justificativa do projeto Descrição do projeto Principais requisitos Critérios de sucesso do projeto Objetivos SMART do projeto  Objetivo 1: Garantir financiamento Objetivo 2: Entregar o aplicativo Objetivo 3: Garantir uma operação saudável   Premissas Restrições Estrutura analítica do projeto (EAP) Marcos Cronogramas Riscos  Descrição dos riscos Matriz RACI   Orçamento  Custos de desenvolvimento inicial Custos de operação   Qualidade  Lista de parâmetros de qualidade   Comunicações  Definição de ferramentas de comunicação Tipo de trabalho Tipo e frequência das reuniões Definição do 6W2H das informações Matriz de Responsabilidades (Matriz RACI)   Recursos Humanos  Descrição dos cargos  Gerente do projeto QA Gerente(s) de comunicações Methodology master LGPD Master Devops Desenvolvedor backend Desenvolvedor frontend DBA Pessoa desenvolvedora mobile Observação 1   Esquema hierárquico   Partes interessadas Aprovações Anexos  Tabela de população por bairro em São Paulo      Controle de versão    Data Versão Descrição Autor     2022-10-18 1 Elaboração inicial.</description>
+    </item>
+    
+    <item>
+      <title>Termo de abertura do projeto</title>
+      <link>/docs/termo/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/termo/</guid>
+      <description>Termo de abertura (v1) Termo de abertura (v2) </description>
     </item>
     
     <item>
@@ -90,11 +131,11 @@ Lista de Parâmetros de qualidade  Ações críticas que envolvem comunicação 
     </item>
     
     <item>
-      <title>Termo de abertura do projeto</title>
-      <link>/docs/termo-abertura/</link>
+      <title>Termo de abertura(v1) do projeto</title>
+      <link>/docs/termo-abertura/termo-aberturav1/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/termo-abertura/</guid>
+      <guid>/docs/termo-abertura/termo-aberturav1/</guid>
       <description>Controle de versão    Data Versão Descrição Autor     2022-10-18 1 Elaboração inicial. Edgard Taver    Equipe do projeto    Nome Número USP     Edgard van Tol Taver 10686575   Gustavo Macedo Ribeiro 11366336   Felipe Munhos Escobar 11795620   Gabriel Braga Lagrotaria de Oliveira 11796600   Rodrigo Fernandes Gomes Vieira 11796548    Objetivo deste documento Autorizar formalmente o início do projeto Cityhub, contendo todas as informações necessárias para que o projeto seja apresentado, iniciado, desenvolvido e operado.</description>
     </item>
     
